@@ -1,0 +1,6 @@
+s=input("Enter a sentence: ")
+print("Output:")
+print(s.upper())
+print(s.lower())
+print(s.replace(" ","__"))
+print(s.strip())

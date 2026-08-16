@@ -8,4 +8,7 @@ print(name[::3])
 print(name[::-1])
 print(name[::-2])
 
+name="Twinkle is studying \nright now"
+print(name)
+
 
