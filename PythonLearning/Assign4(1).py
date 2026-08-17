@@ -1,0 +1,5 @@
+s1=int(input("First number: "))
+s2=int(input("Second number: "))
+print((s1 and s2)>10)
+print((s1 or s2)<5)
+print(not(s1>s2))
