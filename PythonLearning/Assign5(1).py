@@ -1,0 +1,10 @@
+list=["Apple", "Mango", "Banana", "Orange" , "Kiwi"]
+print(list)
+list.append("Pineapple")
+print(list)
+list.insert(1,"Watermelon")
+print(list)
+list.pop(2)
+print(list)
+list.remove("Banana")
+print(list)
