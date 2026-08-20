@@ -1,1 +1,2 @@
-temp=35
+tuple=("male","female","others")
+print(tuple.count("male"))
